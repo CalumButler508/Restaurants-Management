@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, textarea {
+    display: block;
+    margin: 5px 0;
+    padding: 8px;
+    width: 250px;
+}
+
+button {
+    padding: 8px 12px;
+    background: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+}
